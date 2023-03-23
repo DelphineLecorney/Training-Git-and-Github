@@ -1,0 +1,7 @@
+The demo for training 
+
+Understand what Git is and why we use it
+Create and clone a repository
+Add and commit
+Push and pull
+Create and navigate with git branches
