@@ -10,3 +10,7 @@ Follow this Git branching tutorial
 Main > Introduction Sequence 1-3 (intro to merging)
 Remote > Push & Pull 1-4
 Remote > To Origin And Beyond (1-3)
+
+Mode: solo
+Type of Challenge: learning
+Duration: 1 day
